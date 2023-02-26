@@ -2,7 +2,7 @@ import os
 
 p = 'C:/Users/airja/PycharmProjects/project1'
 print('Файлов в папке ' + p + ': ' + str(len(os.listdir(p))))
-Version = 2
+Version = "This version for branch v2"
 
 
 class Row:
